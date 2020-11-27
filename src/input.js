@@ -57,5 +57,6 @@ const InputTextBox = ({giveRecomadations}) => {
     </div>
   );
 }
+//input component
 
 export default InputTextBox;
